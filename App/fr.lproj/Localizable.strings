@@ -505,5 +505,5 @@
 "90d" = "90 jours";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "Widget du tableau de bord";
+"widget_dashboard_description" = "Consultez les statistiques de votre tableau de bord.";
